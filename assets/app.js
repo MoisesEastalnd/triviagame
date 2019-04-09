@@ -135,4 +135,6 @@ function DisplayTime () {
     timerElement.innerHTML = ":"+ sec;
 }
 
-
+function stopTimer () {
+    
+}

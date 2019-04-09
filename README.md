@@ -1,1 +1,1 @@
-# triviagame
+I credit all JS code in this app to Mirza, Awais. “Develop a Quiz App with Javascript - Object Oriented Programming.” YouTube, YouTube, 23 Aug. 2016, www.youtube.com/watch?v=jvk1pFNqXaw. I used the constuctor property "prototype" to get my object (question index) and to read through the my array of questions to determine if my object (answer) is correct or incorrect then send the user through my if statment to increment 1 point if the question was answered correctly. then I used the populate function to show the user's score   # triviagame
